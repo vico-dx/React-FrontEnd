@@ -1,0 +1,1 @@
+En este proyecto se encontrará resumida varias funcionalidades básicas de react 2022
